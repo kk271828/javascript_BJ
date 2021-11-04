@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+
+#joker {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#card_back{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#test{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#test1{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#test2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#test2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#test3{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#hit{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+#stand{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+#newgame{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    font-size: 140%;
+}
+
+#victory{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 500%;
+    display: none;
+}
+
+#lose{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 500%;
+    display: none;
+}
+
+#draw{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 500%;
+    display: none;
+}
